@@ -1,7 +1,7 @@
 class Dog
-  if def barks 
+  def barks 
     puts "Woof!"
-  elsif def sit 
+ def sit 
     puts "The Dog is sitting"
   end 
 end
